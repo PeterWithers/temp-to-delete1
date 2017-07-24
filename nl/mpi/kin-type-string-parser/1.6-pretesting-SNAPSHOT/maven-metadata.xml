@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>nl.mpi</groupId>
+  <artifactId>kin-type-string-parser</artifactId>
+  <version>1.6-pretesting-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170724.123602</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170724123602</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.6-pretesting-20170724.123602-1</value>
+        <updated>20170724123602</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.6-pretesting-20170724.123602-1</value>
+        <updated>20170724123602</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.6-pretesting-20170724.123602-1</value>
+        <updated>20170724123602</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
